@@ -1,3 +1,4 @@
-# Face_recognition-using-OpenCV
-PCA (Principal Component Analysis)algorithm is used
-Run the pyqt.py file
+Face Recognition is implemented in python using OpenCv ..
+Principal Component algorithm is used here..
+References:-cs.otago.ac.nz
+Run  pyqt.py file from terminal
