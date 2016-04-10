@@ -8,4 +8,7 @@ References:-cs.otago.ac.nz
 
 Train database are known faces n Test is the one we want to identify ..
 
-Tested on above database.. 13/15 right matches..
+Tested on above database.. 13/15 right matches.. 
+
+Ensure that pyqt is installed. Debian based machines : sudo apt-get  install python-pyqt5 ..
+
